@@ -3,7 +3,7 @@
 Meu nome é Felipe Ariel
 - Estou aprendendo e ensinando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo em Linguagem Javascript
-- Utiizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Entre em contato comigo pelo email 📫 
 felipeariel@prof.educacao.sp.gov.br 
